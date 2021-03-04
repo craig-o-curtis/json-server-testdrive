@@ -1,5 +1,9 @@
 # json-server test drive
 
+## Overview
+
+This is a test drive of the json-server project. It is a simple way to add a quick REST backend and db to a project. Adding to a project as a module makes the most sense - see `Add to existing project as a module` below.
+
 ## Project Resources
 
 - [json-server](https://github.com/typicode/json-server) for super fast mock BE, endpoints
